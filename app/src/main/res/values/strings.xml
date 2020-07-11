@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Helltaker</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="remove_all">Remove All</string>
+    <string name="exit">Exit</string>
+    <string name="fixed">Fixed demon girls(Unmovable)</string>
+    <string name="unfixed">Unfixed demon girls</string>
+</resources>
